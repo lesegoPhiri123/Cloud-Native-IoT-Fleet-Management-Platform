@@ -1,1 +1,1 @@
-# Cloud-Native-IoT-Fleet-Management-Platform
+# MVP: ingest telemetry, store events, build read models, admin UI.”Cloud-Native-IoT-Fleet-Management-Platform
