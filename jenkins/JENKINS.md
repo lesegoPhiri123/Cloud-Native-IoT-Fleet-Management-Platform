@@ -1,0 +1,1 @@
+Pipeline: build → test → push image → deploy to staging

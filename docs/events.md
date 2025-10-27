@@ -1,0 +1,5 @@
+DeviceRegistered
+
+DeviceTelemetryReceived
+
+CommandSent
