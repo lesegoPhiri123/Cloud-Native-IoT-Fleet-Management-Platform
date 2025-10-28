@@ -1,1 +1,3 @@
-# This file will define GKE cluster, networking, and MongoDB Atlas setup using Terraform.
+resource "google_container_cluster" "primary" {
+  name = "iot-fleet-cluster"
+}
